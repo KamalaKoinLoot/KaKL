@@ -3,7 +3,11 @@ KamalaKoinLoot ($KaKL) Core integration/staging tree
 
 
 
-![alt text](https://github.com/KamalaKoinLoot/KaKL/KaKL.png?raw=true)
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/dogecoin/dogecoin/master/share/pixmaps/KaKL.png" alt="Dogecoin" width="256"/>
+<br/><br/>
+KamalaKoinLoot ($KaKL)  
+</h1>
 
 
 
