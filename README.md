@@ -1,9 +1,11 @@
 KamalaKoinLoot ($KaKL) Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/litecoin-project/litecoin.svg?branch=master)](https://travis-ci.org/litecoin-project/litecoin)
 
-https://litecoin.org
+
+![alt text](https://github.com/KamalaKoinLoot/KaKL/KaKL.png?raw=true)
+
+
 
 What is KamalaKoinLoot? (KaKL)
 ----------------
