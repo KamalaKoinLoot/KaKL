@@ -4,7 +4,7 @@ KamalaKoinLoot ($KaKL) Core integration/staging tree
 
 
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/KamalaKoinLoot/KaKL/master/share/pixmaps/KaKL.png" alt="KaKL" width="256"/>
+<img src="https://raw.githubusercontent.com/KamalaKoinLoot/KaKL/master/share/pixmaps/KamalaKoinLoot.svg" alt="KaKL" width="256"/>
 <br/><br/>
 KamalaKoinLoot ($KaKL)  
 </h1>
